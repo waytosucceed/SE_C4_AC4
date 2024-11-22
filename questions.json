@@ -1,0 +1,68 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Three people attend yoga classes at intervals of 12, 15 and 18 days. They all attended a class on January 1, 2024. When will they next attend a class together?",
+    "options": [
+      "June 30, 2024",
+      "July 2, 2024",
+      "July 15, 2024",
+      "June 28, 2024"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Find the smallest number which when increased by 11 is exactly divisible by both 220 and 616.",
+    "options": [
+      "3069",
+      "3000",
+      "3312",
+      "3428"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "In a race, three friends start running together. Their strides measure 24 cm, 28 cm, and 32 cm respectively. What is the minimum distance each should run so that they all cross the finish line at the same time with complete strides?",
+    "options": [
+      "72 cm",
+      "56 cm",
+      "672 cm",
+      "568 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of the following options is incorrect?",
+    "options": [
+      "LCM of two numbers is always less than or equal to both the numbers.",
+      "The smallest multiple of a number is the number itself.",
+      "Relationship between HCF and LCM doesn’t hold for three numbers.",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The least number which when decreased by 3 is exactly divisible by 10, 16, 20, and 25 is:",
+    "options": [
+      "397",
+      "400",
+      "403",
+      "406"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Three numbers p, q and r have the following properties:<br><ul style='text-align:left'><li>The HCF of p and q is 24.</li><li>The LCM of p and q is 144.</li><li>The LCM of q and r is 73.</li><li>The HCF of p and r is 12.</li></ul> <br>Which of the following statements is true about the relationship between p, q and r?",
+    "options": [
+      "p = 48, q = 96 and r = 72",
+      "p = 24, q = 72 and r = 48",
+      "p = 36, q = 72 and r = 96",
+      "p = 48, q = 72 and r = 36"
+    ],
+    "correct": 3
+  }
+]
